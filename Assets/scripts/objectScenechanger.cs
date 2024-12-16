@@ -26,7 +26,7 @@ public class SceneTransitionTrigger : MonoBehaviour
         if (fadeImage != null)
         {
             // Ensure the fade image starts fully transparent
-            fadeImage.color = new Color(0, 0, 0, 0);
+            fadeImage.color = new Color(fadeImage.color.r, fadeImage.color.g, fadeImage.color.b, 0);
         }
     }
 
@@ -86,7 +86,7 @@ public class SceneTransitionTrigger : MonoBehaviour
         {
             elapsedTime += Time.deltaTime;
             float alpha = Mathf.Clamp01(elapsedTime / fadeDuration);
-            fadeImage.color = new Color(0, 0, 0, alpha);
+            fadeImage.color = new Color(fadeImage.color.r, fadeImage.color.g, fadeImage.color.b, alpha);
             yield return null;
         }
     }
