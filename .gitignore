@@ -153,3 +153,5 @@ coverage.xml
 
 # yamato-parser temporary output files:
 .yamato/unfolded/
+
+Assets/prefabs/carpet.obj 
