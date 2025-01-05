@@ -2,12 +2,12 @@
 
 ## Teamleden / Rooms
 - Muhammed Ordu: Digital Archive
-- Lander: Learning Hub
+- Lander Van Der Stighelen: Learning Hub
 - Grim Van Daele: Gameroom
 - Eli: Main lobby
-- Michiel: Museum
+- Michiel Hoerée: Museum
 
-## Logic of the VR Application
+## Logica van de VR-toepassing
 
 Je begint in de prachtige inkomhal van het museum. Hier krijg je een eerste indruk van de sfeer en kunstwerken die je te wachten staan. De zachte verlichting en de uitnodigende ruimte nodigen je uit om verder te verkennen. Vanuit de hal stap je het museum in, waar je oog direct valt op een schilderij van een bos. Geïntrigeerd door de schoonheid van het werk, besluit je dichterbij te komen. Terwijl je het schilderij instapt, begint een stem je meer te vertellen over de achtergrond en betekenis van het kunstwerk. Je voelt je helemaal ondergedompeld in het verhaal.
 
@@ -37,11 +37,11 @@ Om de overgang van een prototype naar een volledig ontwikkelde VR-product te mak
 
 Vervolgens zal de creatie van op maat gemaakte assets cruciaal zijn om de omgevingen en objecten van de game tot leven te brengen. Dit omvat het ontwikkelen van unieke 3D-modellen voor de kamers, interactieve objecten en karakters, evenals het creëren van realistische texturen en animaties. Elke kamer, van de Ingang tot de Game Room, zal specifieke assets vereisen die aansluiten bij het thema van de game en geoptimaliseerd zijn voor VR. Op maat gemaakte assets verbeteren niet alleen de visuele kwaliteit, maar zorgen er ook voor dat de game soepel presteert op verschillende VR-platformen. Na het bouwen van de multiplayer-functionaliteit en het finaliseren van de assets, moet grondig getest worden om ervoor te zorgen dat alles naadloos samenwerkt, wat zorgt voor een meeslepende VR-ervaring.
 
-## Teams Experience with Multidisciplinary collaboration
+## teamervaring met multidisciplinaire samenwerking
 
 In tegenstelling tot andere projecten bestond ons team volledig uit studenten met een IT-achtergrond, waardoor het multidisciplinaire aspect naar voren kwam via onze samenwerking met de klant, Voem. We hebben hen in de vroege stadia van het project benaderd om hun vereisten te verzamelen, maar helaas ontvingen we pas in de laatste weken feedback. Deze vertraging in communicatie maakte het moeilijk om ons werk eerder in het project aan te passen. Toen we echter eindelijk hun vereisten ontvingen, waren we in staat om in de laatste weken aanzienlijke veranderingen door te voeren om aan hun verwachtingen te voldoen. Ondanks de late reactie was het werken met Voem een waardevolle ervaring. Hun input hielp ons om het project te verfijnen en zorgde ervoor dat we op de juiste koers zaten. De ervaring leerde ons het belang van klantcommunicatie, vooral wanneer feedback cruciaal is in verschillende fasen van de ontwikkeling. Hoewel de timing niet ideaal was, konden we ons snel aanpassen en toch een product afleveren dat voldeed aan hun behoeften. Deze samenwerking gaf ons inzicht in hoe echte projecten het balanceren van klantverwachtingen met technisch werk vereisen. Uiteindelijk, ondanks de uitdagingen, slaagden we erin om aan de vereisten van Voem te voldoen en het project succesvol af te ronden.
 
-## Conclusions
+## Colnclusies
 
 ### Muhammed
 
@@ -49,7 +49,7 @@ In het begin van het project ging alles moeizaam, omdat niemand precies wist wat
 
 ### Grim
 
-Het samenwerken in een groep met voornamelijk leerlingen die ik nog nooit had gesproken, ging soms moeizaam. Maar Vanaf we onze drive hadden gevonden, deden de meesten goed mee. Ik heb het gevoel dat ik zelf wat de leiding heb genomen over het functioneel designproces van het museum. Daarnaast heb ik anderen ook veel geholpen met hun kamer wanneer zij hier moeite mee hadden (en later vice versa). De communicatie met de opdrachtgever was zeer moeilijk vast te leggen, wat deze opdracht zeker uitdagender maakte en ons minder tijd gaf dan andere groepjes. Ondanks dat we pas na een tijdje een duidelijke schets van de opdracht hadden gekregen, heb ik mijn creatieve geest erg heb laten bovenkomen voor dit project. Ik vond het leuk om het verhaal en thema levendig in het project te verwerken tot ons volste vermogen. Dit zorgde ervoor dat het project uiteindelijk een mooie tastbare structuur kreeg. Het gebrek aan directe communicatie dwong ons om veel zelf uit te zoeken en te improviseren in het begin. Hierdoor heb ik ook meer geleerd over samenwerken en verantwoordelijkheid nemen, en om te gaan met onduidelijkheden. Dit zijn handige skills ook later voor op de werkvloer. Al bij al was het dus toch een uitdagender project dan verwacht, maar zoals gebleken, niet om de redenen die je normaal zou verwachten.
+Het samenwerken in een groep met voornamelijk leerlingen die ik nog nooit had gesproken, ging soms moeizaam. Maar vanaf we onze drive hadden gevonden, deden de meesten goed mee. Ik heb het gevoel dat ik zelf wat de leiding heb genomen over het functioneel designproces van het museum. Daarnaast heb ik anderen ook veel geholpen met hun kamer wanneer zij hier moeite mee hadden (en later vice versa). De communicatie met de opdrachtgever was zeer moeilijk vast te leggen, wat deze opdracht zeker uitdagender maakte en ons minder tijd gaf dan andere groepjes. Ondanks dat we pas na een tijdje een duidelijke schets van de opdracht hadden gekregen, heb ik mijn creatieve geest erg laten bovenkomen voor dit project. Ik vond het leuk om het verhaal en thema levendig in het project te verwerken tot ons volste vermogen. Dit zorgde ervoor dat het project uiteindelijk een mooie tastbare structuur kreeg. Het gebrek aan directe communicatie dwong ons om veel zelf uit te zoeken en te improviseren in het begin. Hierdoor heb ik ook meer geleerd over samenwerken en verantwoordelijkheid nemen, en om te gaan met onduidelijkheden. Dit zijn handige skills ook later voor op de werkvloer. Al bij al was het dus toch een uitdagender project dan verwacht, maar zoals gebleken, niet om de redenen die je normaal zou verwachten.
 
 ### Eli
 
