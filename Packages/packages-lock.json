@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "com.siccity.gltfutility": {
-      "version": "https://github.com/siccity/gltfutility.git",
+    "com.unity.animation.rigging": {
+      "version": "1.2.1",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.0"
+        "com.unity.burst": "1.4.1",
+        "com.unity.test-framework": "1.1.24"
       },
-      "hash": "dfdc50830c201c53306fba4ab57ced763d2930c8"
+      "url": "https://packages.unity.com"
     },
     "com.unity.barracuda": {
       "version": "3.0.0",
@@ -22,7 +23,7 @@
     },
     "com.unity.burst": {
       "version": "1.8.13",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
@@ -80,7 +81,7 @@
     },
     "com.unity.inputsystem": {
       "version": "1.7.0",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
@@ -89,7 +90,7 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -134,7 +135,7 @@
     },
     "com.unity.render-pipelines.core": {
       "version": "14.0.11",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.ugui": "1.0.0",
@@ -165,7 +166,7 @@
     },
     "com.unity.searcher": {
       "version": "4.9.2",
-      "depth": 2,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -179,7 +180,7 @@
     },
     "com.unity.shadergraph": {
       "version": "14.0.11",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "14.0.11",
@@ -398,7 +399,7 @@
     },
     "com.unity.modules.subsystems": {
       "version": "1.0.0",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.jsonserialize": "1.0.0"
