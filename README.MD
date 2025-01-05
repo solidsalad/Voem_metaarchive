@@ -1,96 +1,59 @@
-# HockAI Impact
+# Voem: Museum reimagined in VR
 
-### Teamleden
-- Nicolai de Groot
-- Nick Vanreusel
-- Grim Van Daele
-- Joshua Hall
+## Teamleden / Rooms
+- Muhammed Ordu: Digital Archive
+- Lander: Learning Hub
+- Grim Van Daele: Gameroom
+- Eli: Main lobby
+- Michiel: Museum
 
-## Inleiding
+## Logic of the VR Application
 
-We willen een nostalgische air hockey-ervaring bieden, maar dan thuis. We kozen voor een Ai omdat dit een meer natuurlijk en menselijk gevoel te geven aan het spel. Hierdoor vermijden we dat je het gevoel krijgt dat je tegen een computer aan het spelen bent. Het VR aspect geeft meer vrijheid, inlevingsvermogen en zonder zich zorgen te maken over fysieke locaties. Dit maakt het gemakkelijk en leuk voor iedereen, zonder gedoe.
+Je begint in de prachtige inkomhal van het museum. Hier krijg je een eerste indruk van de sfeer en kunstwerken die je te wachten staan. De zachte verlichting en de uitnodigende ruimte nodigen je uit om verder te verkennen. Vanuit de hal stap je het museum in, waar je oog direct valt op een schilderij van een bos. Geïntrigeerd door de schoonheid van het werk, besluit je dichterbij te komen. Terwijl je het schilderij instapt, begint een stem je meer te vertellen over de achtergrond en betekenis van het kunstwerk. Je voelt je helemaal ondergedompeld in het verhaal.
 
-Air hockey wordt met 2 spelers gespeelt. Doordat wij Ai gebruiken bieden wij een single player ervaring aan. Wij kozen voor een single agent. 
+Na het bewonderen van het schilderij zie je in je ooghoek een deur naar de Digitale Archive Room. Hier kun je een aantal indrukwekkende hologrammen bewonderen, waaronder een gedetailleerde weergave van Nefertiti en een geanimeerde Triceratops die de ruimte tot leven brengt. Daarnaast worden er video's van het VOEM-YouTube-kanaal getoond, die je meer vertellen over verschillende fascinerende onderwerpen.
 
-Voor de installatie moet er rekening gehouden worden met volgende versie voor de applicatie:
-- Unity version: 2022.3.27f1
+Na deze digitale ervaring zie je een deur naar de leerhub. Hier ligt een leeg canvas klaar, met verfborstels netjes gerangschikt. Je pakt een van de borstels op en begint te schilderen. Met iedere penseelstreek breng je je visie tot leven. Wanneer je klaar bent, transformeer je je schilderij met een magische touch tot een afgewerkt meesterwerk. Vervolgens hang je het trots op in een kader, waardoor je een persoonlijke bijdrage toevoegt aan deze leerrijke omgeving.
 
+Als afsluiting kun je ontspannen in de game room, waar nieuwe avonturen op je wachten. Verken een uitdagend doolhof waarin je kunt verdwalen, of daag een AI uit voor een potje airhockey. Deze ruimte biedt de perfecte balans tussen creativiteit, ontspanning en plezier, en zorgt ervoor dat jouw bezoek aan het museum onvergetelijk wordt.
 
-## Functionele logica
+## Waarom Virtual Reality?
 
-De speler probeert met zijn striker de puck in de goal van de tegenspeler te krijgen en te vermijden dat die puck in eigen doel terecht komt om het spel te winnen.
-De speler kan met de VR controllers de puck vastpakken en met een vloeiende beweging deze striker tot beweging brengen. Als de striker in contact komt met de puck, wordt die naar de kant geduwd waar de speler naar mikt met de striker.
+In ons groepsproject voor Voem biedt de VR-game die we hebben ontwikkeld een unieke en boeiende ervaring die zich onderscheidt van niet-VR-formaten door spelers volledig onder te dompelen in een virtuele wereld. De game bestaat uit vijf verschillende kamers—Ingang, Museum, Digitale Archief, Game Room en Learning Hub—die elk interactieve en educatieve ervaringen bieden die versterkt worden door VR. In de Game Room kunnen spelers bijvoorbeeld genieten van een spannend potje airhockey, waarbij ze hun handen fysiek bewegen om de paddles te besturen, wat een gevoel van onderdompeling en realisme toevoegt dat traditionele games niet kunnen repliceren. De Learning Hub stelt gebruikers in staat om hun eigen kunstwerk te schilderen en dit in de virtuele omgeving te plaatsen, wat creatieve expressie en interactie mogelijk maakt op een manier die in VR tastbaarder en persoonlijker aanvoelt. De Museum- en Digitale Archiefkamers maken volledig gebruik van de ruimtelijke mogelijkheden van VR, waardoor spelers de tentoonstellingen van dichtbij kunnen verkennen en de inhoud vanuit verschillende perspectieven kunnen ervaren. Deze meeslepende ervaring verhoogt zowel de entertainment- als educatieve waarde van de game, waardoor deze boeiender en effectiever is in vergelijking met niet-VR-alternatieven. Uiteindelijk helpt de VR-omgeving om de doelstellingen van het project tot leven te brengen, waardoor een diepere verbinding en begrip wordt gecreëerd die alleen mogelijk is door middel van virtuele realiteit.
 
-## Draaiboek
+## Testing
 
-Introductie
-- Speler in VR-lobby.
-- Korte uitleg spelregels.
+We begonnen met een grondig onderzoek naar VOEM om een beter begrip te krijgen voor wie we deze opdracht precies maakten. Tijdens dit onderzoek ontdekten we dat VOEM al een 2D online metaverse had ontwikkeld, die we vervolgens hebben verkend om een goed beeld te krijgen van hun bestaande werk en aanpak. Dit gaf ons een stevige basis om op verder te bouwen. Terwijl we dit in kaart brachten, begonnen we binnen het team ideeën te verzamelen in de vorm van storyboards en schetsen. Tegelijkertijd nam een teamlid contact op met VOEM om meer richting te krijgen en hun exacte verwachtingen te bespreken. Uit de documentatie die we vervolgens ontvingen, bleek dat ze specifieke ruimtes in de Metarchive wilden, zoals een museum, spawn & main lobby, archive center, game zone en learning hub, elk met hun eigen kenmerken en doelen.
 
-Spelstart
-- Speler en tegenstander op het speelterrein.
-- Puck in het midden.
-Spelverloop
-- Speler gebruikt controller om striker te bewegen.
-- Doel: puck in tegenstander's goal, eigen goal vermijden.
+Na onze eerste meeting met VOEM hebben we een taakverdeling opgesteld om het project overzichtelijk te houden. Elk teamlid kreeg een specifieke kamer toegewezen, die ze verder uitwerkten op basis van de opgegeven specificaties. Twee weken na de eerste meeting stuurden we een opvolgingsmail om VOEM een update te geven over onze voortgang. Dit gaf hen de kans om feedback te leveren en eventuele aanvullingen door te geven, wat ons hielp om onze ontwerpen beter af te stemmen op hun verwachtingen.
 
-Finale
-- Een speler scoort doelpunt.
+Het validatieproces bestond uit verschillende fasen, waaronder interne controles en feedbackrondes binnen het team. Binnen het team beoordeelden we elkaars kamers om ervoor te zorgen dat elke ruimte functioneerde zoals bedoeld en visueel aansloot bij de richtlijnen. Dit proces hielp ons niet alleen om fouten te identificeren, maar ook om elkaar suggesties te geven voor verbeteringen, zoals bijvoorbeeld het toevoegen van specifieke visuele details of het optimaliseren van interacties binnen de ruimtes. Door elkaars feedback te implementeren, konden we ervoor zorgen dat de kamers niet alleen individueel werkten, maar ook als geheel een samenhangend eindproduct vormden.
 
-## Tutorial
-Je start de applicatie op. De speler zal vanaf start in een kamer bevinden op de maan waar die zicht vrij kan teleporteren in het omgeving. De speler kan zich voortbewegen tot de tutorial bord voor de uitleg van het spel en de speler kan ook bewegen tot de air hockey tafel waar de spel gestart kan worden. De speler kiest tot welke score er gespeelt wordt en kan beginnen aan het spel.
+Door het uitgebreide vooronderzoek, de iteratieve aanpak en taakverdeling binnen het team konden we een eindproduct opleveren dat aansloot bij de visie van VOEM.
 
-## Beschrijving van de objecten
-In het virtuele omgeving zijn de belangrijkste objecten in het spel 'de striker' waarmee de speler de puck kan wegduwen, 'de puck' die naar de tegengestelde goal moet bewogen worden en 'de speeltafel'. De speeltafel bevat de trigger functies die punten weergeven indien er gescoord wordt in een goal. 
+## Next steps
 
-## Beschrijvingen van het gedrag van de objecten
-Puck: cilinder die een rigedbody bevat
-Agent striker: cilinder die een rigedbody en agent bevat
-Player striker: cilinder die een rigedbody en XR  Grab interactable bevat
-Tafel: waar het spel gespeelt wordt.
+Om de overgang van een prototype naar een volledig ontwikkelde VR-product te maken, omvatten de belangrijkste stappen het focussen op multiplayer-integratie en het verfijnen van de creatie van op maat gemaakte assets. Ten eerste is het toevoegen van multiplayer-functionaliteit essentieel om de gebruikerservaring te verbeteren. Door realtime interactie tussen spelers mogelijk te maken, kan de game gebruikers de mogelijkheid bieden om samen het Museum, Digitale Archief en andere kamers te verkennen, samen te werken aan taken of te concurreren in spellen zoals airhockey in de Game Room. Multiplayer vereist robuuste netwerktechnologie om een soepele, lage-latentieverbinding te garanderen, evenals spraak- en tekstchatfuncties voor communicatie tussen spelers. Dit kan zorgen voor een meer sociale en interactieve ervaring, vooral in de Learning Hub, waar spelers hun creatieve werken kunnen delen en tentoonstellen.
 
+Vervolgens zal de creatie van op maat gemaakte assets cruciaal zijn om de omgevingen en objecten van de game tot leven te brengen. Dit omvat het ontwikkelen van unieke 3D-modellen voor de kamers, interactieve objecten en karakters, evenals het creëren van realistische texturen en animaties. Elke kamer, van de Ingang tot de Game Room, zal specifieke assets vereisen die aansluiten bij het thema van de game en geoptimaliseerd zijn voor VR. Op maat gemaakte assets verbeteren niet alleen de visuele kwaliteit, maar zorgen er ook voor dat de game soepel presteert op verschillende VR-platformen. Na het bouwen van de multiplayer-functionaliteit en het finaliseren van de assets, moet grondig getest worden om ervoor te zorgen dat alles naadloos samenwerkt, wat zorgt voor een meeslepende VR-ervaring.
 
-Puck: bevat score in welke goal het beland, speelt geluid af als de snelheid veranderd.
-Agent striker: wordt bestuurd door de AI.
-XR Rig: kan teleporteren, snap turnen,  en kan de striker oppakken
+## Teams Experience with Multidisciplinary collaboration
 
-## Model training 
-We hebben in het begin verschillende manieren geprobeert om aan model training te doen. We hebben de 'self-play' methode geprobeert waarbij 2 Ai's tegen elkaar spelen gebasseerd op dezelfde trainingsmodel. Dit resulteerde niet goed.
+In tegenstelling tot andere projecten bestond ons team volledig uit studenten met een IT-achtergrond, waardoor het multidisciplinaire aspect naar voren kwam via onze samenwerking met de klant, Voem. We hebben hen in de vroege stadia van het project benaderd om hun vereisten te verzamelen, maar helaas ontvingen we pas in de laatste weken feedback. Deze vertraging in communicatie maakte het moeilijk om ons werk eerder in het project aan te passen. Toen we echter eindelijk hun vereisten ontvingen, waren we in staat om in de laatste weken aanzienlijke veranderingen door te voeren om aan hun verwachtingen te voldoen. Ondanks de late reactie was het werken met Voem een waardevolle ervaring. Hun input hielp ons om het project te verfijnen en zorgde ervoor dat we op de juiste koers zaten. De ervaring leerde ons het belang van klantcommunicatie, vooral wanneer feedback cruciaal is in verschillende fasen van de ontwikkeling. Hoewel de timing niet ideaal was, konden we ons snel aanpassen en toch een product afleveren dat voldeed aan hun behoeften. Deze samenwerking gaf ons inzicht in hoe echte projecten het balanceren van klantverwachtingen met technisch werk vereisen. Uiteindelijk, ondanks de uitdagingen, slaagden we erin om aan de vereisten van Voem te voldoen en het project succesvol af te ronden.
 
-We hebben daarna een andere techniek geprobeert waarbij de Ai tegen een tegenstander speelt die randomised bewegingen kon uitvoeren die ook een random kracht tegen de puck uitvoert. Deze techniek hielp heel goed om tot een goede training te bekomen. 
+## Conclusions
 
-Met deze techniek zijn er 2 verschillende soorten trainingen gebeurt. De blauwe lijnen simuleren de training die wij hebben gedaan op een klein oppervlak van tafel. De rode lijn is een training die wij hebben op een groter oppervlak van een tafel.
+### Muhammed
 
-Als wij deze obeservaties bekijken zagen wij dat het model het beste presteerde op een groter tafel oppervlak waarbij wij uiteindelijk besloten hadden met deze model verder te gaan.
-![alt text](image-5.png)
+Aan het begin van het project ging alles moeizaam, omdat niemand precies wist wat de opdracht inhield. Er was veel onduidelijkheid over wat er precies verwacht werd, wat de voortgang vertragerde. Deze verwarring werd pas opgelost nadat we met de klant, Voem, in gesprek gingen. Na dit gesprek kregen we meer duidelijkheid over de richting van het project en wat er nodig was voor het prototype. Dit hielp ons om de taak beter te begrijpen en onze aanpak te herzien. Hoewel we in de eerste fase wat tijd verloren door miscommunicatie, was het gesprek met Voem cruciaal voor de voortgang. Hierdoor konden we ons werk sneller aanpassen en het prototype in de laatste weken verder verbeteren. Uiteindelijk denk ik dat we erin geslaagd zijn om een prototype te leveren dat voldoet aan de verwachtingen en goed gepresenteerd wordt. De ervaring heeft ons geleerd hoe belangrijk het is om van meet af aan duidelijke communicatie te hebben. Ondanks de moeizame start, zijn we erin geslaagd om het project succesvol af te ronden.
 
-We hebben dit model dus nog extra gefinetuned op de meer realistische tafel door meer epochs te gebruiken.
+### Grim
 
-Als wij de grafieken bekijken zien we dat er een stabiele leerpatroon is en dat we aan accumulated accuracy hebben van 0.60 . We vonden dit een ideale score omdat wij ook niet wouden dat het model begon te overtrainen en dat het te moeilijk wordt voor de speler om tegen de Ai te spelen.
+### Eli
 
-We hebben de model getraind op 12 miljoen epochs.
-![alt text](image-4.png)
+### Lander
 
-
-### Acties en beloningen
-De AI is getraint op 3 vormen van reward. 
-
-- Als de agent de puck scoort in de goal van de tegenspeler, krijgt die een score van 1.
-- Als de tegenstander de puck scoort in de goal van Ai agent dan krijgt de agent een score van -1.
-- Als de agent de puck zou aanraken, zou die een reward krijgen van 0.1
-
-
-### Conclusie van de training
-Na een lange training waar wij op verschillende manieren hebben getraind vinden wij dat wij een goed AI model hebben gemaakt die uitdagend is voor de speler. 
-
-## Conclusie
-Wij hebben dus een Air hockey spel gemaakt in een Unity VR omgeving waar de speler in een unieke omgeving zit waar die tegen een Agent speelt om de meeste goals in het spel te maken. 
-
-De trainingsresultaat van de agent was meer als voldoende vonden wij. Als wij het model langer hadden getraint, kon het spel voor de speler te moeilijk zijn om te spelen zijn tegen de agent.
-
-Eventuele verbeteringen aan de toekomst zijn dat we mogelijk 3 of meerdere verschillende modellen konden verwerken in het spel waarbij elk model een keuze moeilijkheidsgraad beschrijft voor de speler zodat die een difficultie keuze kon maken hoe de speler het spel wilt spelen. Per difficultie zou er dan ook 3 verschillende locaties zijn om te spelen.
-
-Een uitbreiding dat wij nog wouden toevoegen is dat een statistics bord komt met de wins van de speler en de wins van de agent. 
+### Michiel
 
 ## Bronvermeldingen
 
