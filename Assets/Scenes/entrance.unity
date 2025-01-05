@@ -14962,6 +14962,7 @@ MonoBehaviour:
   triggerDistance: 1
   fadeDuration: 1
   fadeImage: {fileID: 6292696234136026730}
+  audioClip: {fileID: 8300000, guid: fc7a9dca1e6e24349bb45e1c5a7cab73, type: 3}
 --- !u!23 &1839849897
 MeshRenderer:
   m_ObjectHideFlags: 0

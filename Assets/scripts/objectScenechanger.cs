@@ -19,8 +19,15 @@ public class SceneTransitionTrigger : MonoBehaviour
     private Camera mainCamera; // Reference to the main camera
     private bool isTransitioning = false; // Prevent double-triggering
 
+    public AudioClip audioClip; 
+    private AudioSource audioSource;
+
+
     private void Start()
     {
+        audioSource = gameObject.AddComponent<AudioSource>();
+
+        audioSource.clip = audioClip;
         mainCamera = Camera.main;
 
         if (fadeImage != null)
@@ -49,9 +56,11 @@ public class SceneTransitionTrigger : MonoBehaviour
     }
 
     private void TriggerSceneChange()
+
     {
         if (!isTransitioning)
         {
+            audioSource.Play();
             StartCoroutine(ChangeSceneWithFade());
         }
     }
