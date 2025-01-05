@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.siccity.gltfutility": "https://github.com/Siccity/GLTFUtility.git",
     "com.unity.animation.rigging": "1.2.1",
     "com.unity.burst": "1.8.13",
     "com.unity.cinemachine": "2.10.0",
