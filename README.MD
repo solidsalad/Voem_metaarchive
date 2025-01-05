@@ -53,6 +53,20 @@ Het samenwerken in een groep met voornamelijk leerlingen die ik nog nooit had ge
 
 ### Eli
 
+Toen we met dit project begonnen, vonden we het in het begin lastig om van start te gaan. 
+Dit kwam vooral doordat het lange tijd onduidelijk was wat er precies van ons verwacht werd. 
+Pas toen deze verwachtingen helder werden, konden we echt van start gaan. 
+Vanaf dat moment verliep de samenwerking veel soepeler. 
+Iedereen kreeg duidelijke taken toegewezen die hij of zij moest uitvoeren, waardoor er structuur in het project kwam.
+
+Naast de individuele taken waren er ook onderdelen die we samen moesten aanpakken. 
+Zo moesten we bijvoorbeeld alles goed op elkaar afstemmen, zoals het gebruik van de juiste schaal en andere technische details. 
+Dit vereiste regelmatig overleg, maar dankzij goede communicatie wisten we deze uitdagingen zonder problemen op te lossen.
+
+Wel was het moeilijk om de correcte 3d modellen te vinden. Dit kwam omdat we met een volledig team van IT'ers waren.
+Niemand van ons had dus ervaring met eigen 3d modellen te maken.
+Daardoor hebben we onze modellen van de UnityAsset store moeten halen.
+
 ### Lander
 
 Werken in een groep van vijf IT’ers voelde niet echt multidisciplinair, omdat we allemaal uit dezelfde achtergrond kwamen. Er waren momenten waarop we niet goed wisten wie wat moest doen, en dat vertraagde het proces. Ook misten we in het begin duidelijke richtlijnen over wat het doel van het project was. Dit maakte het moeilijk om echt enthousiast te worden over het project.
