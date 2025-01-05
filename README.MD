@@ -55,9 +55,9 @@ Het samenwerken in een groep met voornamelijk leerlingen die ik nog nooit had ge
 
 ### Lander
 
-Werken in een groep van vijf IT’ers voelde niet echt multidisciplinair, omdat we allemaal uit dezelfde achtergrond kwamen. Het grootste probleem was dat niemand echt de leiding nam, waardoor communicatie en organisatie vaak moeizaam verliepen. Er waren momenten waarop we niet goed wisten wie wat moest doen, en dat vertraagde het proces. Ook misten we in het begin duidelijke richtlijnen over wat het doel van het project was. Dit maakte het moeilijk om echt enthousiast te worden over het project.
+Werken in een groep van vijf IT’ers voelde niet echt multidisciplinair, omdat we allemaal uit dezelfde achtergrond kwamen. Er waren momenten waarop we niet goed wisten wie wat moest doen, en dat vertraagde het proces. Ook misten we in het begin duidelijke richtlijnen over wat het doel van het project was. Dit maakte het moeilijk om echt enthousiast te worden over het project.
 
-Toch hebben we tegen het einde een duidelijke visie gevormd. Dat gaf ons weer motivatie om er iets moois van te maken. Iedereen begon beter samen te werken en had meer vertrouwen in het eindresultaat. Ondanks de uitdagingen hebben we uiteindelijk iets goeds neergezet. Het hele proces liet zien hoe belangrijk een duidelijke planning en taakverdeling zijn. Achteraf gezien hebben we veel geleerd over samenwerken, ook al ging het niet altijd soepel.
+Toch hebben we tegen het einde een duidelijke visie gevormd. Dat gaf ons weer motivatie om er iets moois van te maken. Iedereen begon beter samen te werken en had meer vertrouwen in het eindresultaat. Ondanks de uitdagingen hebben we uiteindelijk iets goeds neergezet. Het hele proces liet zien hoe belangrijk een duidelijke planning en taakverdeling zijn. Achteraf gezien hebben we veel geleerd over samenwerken, ook al ging het niet altijd soepel. Het was een waardevolle ervaring die ons heeft voorbereid op toekomstige projecten.
 
 ### Michiel
 
