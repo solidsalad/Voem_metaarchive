@@ -41,7 +41,7 @@ Vervolgens zal de creatie van op maat gemaakte assets cruciaal zijn om de omgevi
 
 In tegenstelling tot andere projecten bestond ons team volledig uit studenten met een IT-achtergrond, waardoor het multidisciplinaire aspect naar voren kwam via onze samenwerking met de klant, Voem. We hebben hen in de vroege stadia van het project benaderd om hun vereisten te verzamelen, maar helaas ontvingen we pas in de laatste weken feedback. Deze vertraging in communicatie maakte het moeilijk om ons werk eerder in het project aan te passen. Toen we echter eindelijk hun vereisten ontvingen, waren we in staat om in de laatste weken aanzienlijke veranderingen door te voeren om aan hun verwachtingen te voldoen. Ondanks de late reactie was het werken met Voem een waardevolle ervaring. Hun input hielp ons om het project te verfijnen en zorgde ervoor dat we op de juiste koers zaten. De ervaring leerde ons het belang van klantcommunicatie, vooral wanneer feedback cruciaal is in verschillende fasen van de ontwikkeling. Hoewel de timing niet ideaal was, konden we ons snel aanpassen en toch een product afleveren dat voldeed aan hun behoeften. Deze samenwerking gaf ons inzicht in hoe echte projecten het balanceren van klantverwachtingen met technisch werk vereisen. Uiteindelijk, ondanks de uitdagingen, slaagden we erin om aan de vereisten van Voem te voldoen en het project succesvol af te ronden.
 
-## Colnclusies
+## Conclusies
 
 ### Muhammed
 
