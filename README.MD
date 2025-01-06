@@ -89,6 +89,19 @@ desondanks dat hebben we ons toch gered. We konden nog steeds assets van de asse
 - SketchUp. (2025). SketchUp 3D modeling software [Software]. Beschikbaar op https://www.sketchup.com/.
 - Canva. (2025). Canva design tool [Software]. Beschikbaar op https://www.canva.com/.
 - Storyboard That. (2025). Storyboard That - Online storyboard creator [Software]. Beschikbaar op https://www.storyboardthat.com/.
+-Andrey Godlevsky. (2023). 50 Free PBR Materials (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/50-free-pbr-materials-242760.
+- Aderyn Studio. (2022). Floor Materials Pack V-1 (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435.
+- PULSE. (2017). Modern Table with Chairs (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/modern-table-with-chairs-83834.
+- 3D Everything. (2021). Human Base Meshes (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/characters/humanoids/humans/human-base-meshes-178395.
+- Lightsolutions. (2016). Free PBR Lamps (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/free-pbr-lamps-70181.
+- Azerilo. (2018). Free Rug Pack (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178.
+- k1ck. (2018). Picture Frames with Photos (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907.
+- Yannis Keleman. (2023). Sofa Set (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/sofa-set-260566.
+- Artstation Studios. (2021). Free Flower Ceramic Vases (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/vegetation/flowers/free-flower-ceramic-vases-187046.
+- Elite Developers. (2024). Marble Design Materials (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/tiles/marble-design-materials-284996.
+- Dreamscape. (2024). Free Wood Door Pack (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/free-wood-door-pack-280509.
+- Yughues. (2016). Yughues Free Wooden Floor Materials (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213.
+- Vincenz300. (2018). City Package (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224.
 
 
 
