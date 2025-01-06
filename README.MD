@@ -102,6 +102,9 @@ desondanks dat hebben we ons toch gered. We konden nog steeds assets van de asse
 - Biostart. (2024). Free Wood Door Pack (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/free-wood-door-pack-280509.
 - Nobiax / Yughues. (2015). Yughues Free Wooden Floor Materials (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213.
 - 255 pixel studios. (2024). City Package (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224.
+- Freeman Audio Visual. (2023). Free Unity Asset Essentials: A Guide for Beginners [YouTube video]. Retrieved from https://youtu.be/sHE5ubsP-E8?si=_uaD5nSjtmWpgWMZ.
+- Pro Assets. (2024). Picture Frames (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/picture-frames-301169.
+- Zoxel. (2021). Free Sci-Fi Office Pack (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/environments/sci-fi/free-sci-fi-office-pack-195067.
 
 
 
