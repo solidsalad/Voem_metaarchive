@@ -77,15 +77,15 @@ Toch hebben we tegen het einde een duidelijke visie gevormd. Dat gaf ons weer mo
 
 ## Bronvermeldingen
 
-- Glitch Squirrel. (2019, November 5). Lunar Landscape 3D (Version 1.1) [Unity asset]. NicoliadG(Personal). 
-Retrieved from https://assetstore.unity.com/packages/3d/environments/landscapes/lunar-landscape-3d-132614.
-- Stagit East. (2019, April 12). Earth & Planets skyboxes (Version 1.1) [Unity asset]. NicoliadG(Personal). Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/sky/earth-planets-skyboxes-53752.
-- Sami Lehtonen. (2018, January 10). sFuture Modules PRO Space and Ground (Version 1.1) [Unity asset]. NicoliadG(Personal). Retrieved from https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018.
-- Geniuscrate Games. (2023, October 2). Hall Set - Interior (Version 1.0) [Unity asset]. NicoliadG(Personal). Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/hall-set-interior-263077.
-- OneProgram3. (2018, May 28). Small Pack Furniture (Version 1.2) [Unity asset]. NicoliadG(Personal). Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/small-pack-furniture-56628.
-- Azerilo. (2018, July 26). Free Rug Pack (Version 1.0) [Unity asset]. NicoliadG(Personal). Retrieved from https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178.
-- YalcinKaragozler. (2016, July 28). Nice Materials Pack Vol. 2 (Version 1.0) [Unity asset]. NicoliadG(Personal). Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/nice-materials-pack-vol-2-67599.
+- Sami Lehtonen. (2018, January 10). sFuture Modules PRO Space and Ground (Version 1.1) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018.
+- Geniuscrate Games. (2023, October 2). Hall Set - Interior (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/hall-set-interior-263077.
+- OneProgram3. (2018, May 28). Small Pack Furniture (Version 1.2) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/small-pack-furniture-56628.
+- Azerilo. (2018, July 26). Free Rug Pack (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178.
+- YalcinKaragozler. (2016, July 28). Nice Materials Pack Vol. 2 (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/nice-materials-pack-vol-2-67599.
 - OpenAI. (2024). ChatGPT (Jun 17 versie) [Large language model]. Van https://www.openai.com/chatgpt.
-- Zhang, J. (2021, October 22). Competitive self-play with Unity ML-Agents. Coder One. https://www.gocoder.one/blog/competitive-self-play-unity-ml-agents/
+- SketchUp. (2025). SketchUp 3D modeling software [Software]. Beschikbaar op https://www.sketchup.com/.
+- Canva. (2025). Canva design tool [Software]. Beschikbaar op https://www.canva.com/.
+- Storyboard That. (2025). Storyboard That - Online storyboard creator [Software]. Beschikbaar op https://www.storyboardthat.com/.
+
 
 
