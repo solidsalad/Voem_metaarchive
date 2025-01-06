@@ -75,6 +75,9 @@ Toch hebben we tegen het einde een duidelijke visie gevormd. Dat gaf ons weer mo
 
 ### Michiel
 
+Ook al hadden we geen studenten uit andere richtingen denk ik wel dat ik er iets van het bijgeleerd vooral in het gebrek aan diverse blikken. Iedereen was goed in de technische, maar we kwamen er al snel achter dat we niet alles konden. Bijvoorbeeld, we hadden niemand die iets creatiefs kon doen, zoals muziek maken of visuals ontwerpen. Ook was er eerst een beetje chaos, omdat niemand echt de leiding wilde nemen. Uiteindelijk nam iemand het wel op zich, maar dat duurde even, en daardoor begon het project wat traag.
+
+desondanks dat hebben we ons toch gered. We konden nog steeds assets van de assets store zoeken om de praktische items in te vullen. Het was ook nieuw om met mensen uit andere klassen te werken, zij nog een lichte andere aanpak. Dit hele project heeft me wel duidelijk gemaakt dat het handig is om een team te hebben met meer verschillende skills, en dat je soms gewoon moet roeien met de riemen die je hebt.
 ## Bronvermeldingen
 
 - Sami Lehtonen. (2018, January 10). sFuture Modules PRO Space and Ground (Version 1.1) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018.
