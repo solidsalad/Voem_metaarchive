@@ -1,5 +1,6 @@
 # Voem: Museum reimagined in VR
 [Video](https://www.youtube.com/watch?v=FkVJVzG_kH0)
+[SideQuest Zip (Needs to be approved)](https://cdn.sidequestvr.com/file/1763646/voem3.zip)
 ## Teamleden / Rooms
 - Muhammed Ordu: Digital Archive
 - Lander Van Der Stighelen: Learning Hub
