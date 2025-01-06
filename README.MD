@@ -105,6 +105,9 @@ desondanks dat hebben we ons toch gered. We konden nog steeds assets van de asse
 - Freeman Audio Visual. (2023). Free Unity Asset Essentials: A Guide for Beginners [YouTube video]. Retrieved from https://youtu.be/sHE5ubsP-E8?si=_uaD5nSjtmWpgWMZ.
 - Pro Assets. (2024). Picture Frames (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/picture-frames-301169.
 - Zoxel. (2021). Free Sci-Fi Office Pack (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/environments/sci-fi/free-sci-fi-office-pack-195067.
+- Vertex Studio. (2016, March 31). Classic Picture Frame (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/classic-picture-frame-59038.
+- Samuel Snow. (2016, July 5). Bronze Bear Statue (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/bronze-bear-statue-65904.
+- ChamferBox Studio. (2018, January 22). Discobolus Statue (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/discobolus-statue-107544.
 
 
 
