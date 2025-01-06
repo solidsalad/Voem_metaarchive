@@ -108,6 +108,26 @@ desondanks dat hebben we ons toch gered. We konden nog steeds assets van de asse
 - Vertex Studio. (2016, March 31). Classic Picture Frame (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/furniture/classic-picture-frame-59038.
 - Samuel Snow. (2016, July 5). Bronze Bear Statue (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/bronze-bear-statue-65904.
 - ChamferBox Studio. (2018, January 22). Discobolus Statue (Version 1.0) [Unity asset]. Retrieved from https://assetstore.unity.com/packages/3d/props/discobolus-statue-107544.
-
-
+- FOIA Results. (n.d.). Bust of Nefertiti [3D model]. Retrieved from https://sketchfab.com/3d-models/bust-of-nefertiti-foia-results-8c60faca6152405e9d35784efa8b9aa1
+- FOIA Results. (n.d.). Granite Head of Amenemhat III [3D model]. Retrieved from https://sketchfab.com/3d-models/granite-head-of-amenemhat-iii-64d0b7662b59417986e9d693624de97a
+- Sketchfab. (n.d.). Khonsu Skull (Moon Knight) [3D model]. Retrieved from https://sketchfab.com/3d-models/khonsu-skull-moon-knight-fdc212c158734fd381a9cb246c571b38
+- Sketchfab. (n.d.). Japanese Armor (Edo Period) [3D model]. Retrieved from https://sketchfab.com/3d-models/japanese-armor-edo-period-1603-1868-0480d3d8b5fe4d9dbfdee854ce9f4bcf
+- Sketchfab. (n.d.). Tyrannosaurus Rex (AMNH Quick Scan) [3D model]. Retrieved from https://sketchfab.com/3d-models/tyrannosaurus-rex-amnh-quick-scan-135a235bd3d743fbad55ab0919df23db
+- Sketchfab. (n.d.). Server Rack [3D model]. Retrieved from https://sketchfab.com/3d-models/server-rack-62f6779cb7e448b19aaf58544c3c7218
+- Sketchfab. (n.d.). Animated Triceratops Skeleton [3D model]. Retrieved from https://sketchfab.com/3d-models/animated-triceratops-skeleton-06cb55f941d94dc8b95ac46f92d89e7c
+- Sketchfab. (n.d.). Red Button [3D model]. Retrieved from https://sketchfab.com/3d-models/red-button-e7685cccf7364682bc6a7883d0b8c503
+- Sketchfab. (n.d.). Future Bench [3D model]. Retrieved from https://sketchfab.com/3d-models/future-bench-03e79f17bcd742e0927171d1c71fba20
+- Sketchfab. (n.d.). Vintage Books [3D model]. Retrieved from https://sketchfab.com/3d-models/vintage-books-7a9bedf1e85c4f85b1b384dbdadadee9
+- Sketchfab. (n.d.). Wooden Table [3D model]. Retrieved from https://sketchfab.com/3d-models/wooden-table-0dc1c7d6cbab4d74bef7c4f82abf2caf
+- Sketchfab. (n.d.). Japanese Lantern [3D model]. Retrieved from https://sketchfab.com/3d-models/japanese-lantern-5b183cae6d1043f2acddfa177653abae
+- Sketchfab. (n.d.). Antique Globe [3D model]. Retrieved from https://sketchfab.com/3d-models/antique-globe-78b47132c6be42bcb664545a69b380d9
+- Sketchfab. (n.d.). Tablet [3D model]. Retrieved from https://sketchfab.com/3d-models/tablet-774782cf1069483196ede65274ba69d8
+- Sketchfab. (n.d.). Simple TV Projector Screen [3D model]. Retrieved from https://sketchfab.com/3d-models/simple-tv-projector-screen-4e9c362ea9534715be61810fed085ef2
+- Sketchfab. (n.d.). Univac Computer [3D model]. Retrieved from https://sketchfab.com/3d-models/univac-computer-2a5241d9d24c4e129d6dadc0b0734006
+- Sketchfab. (n.d.). Sci-Fi Computer (Game-Ready) [3D model]. Retrieved from https://sketchfab.com/3d-models/sci-fi-computer-game-ready-53e7eeb0f69540d2892ad6aa5f47bd39
+- Yughues. (n.d.). Yughues Free Wooden Floor Materials [Unity asset]. Retrieved from https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213
+- DinosaursVsHumans. (2023, October 23). Dinosaurs vs Humans [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=MtXweqFhNUI&ab_channel=DinosaursVsHumans
+- RexyMontero. (2022, December 14). Dinosaur Battle [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=E4Nui1uAgl8&ab_channel=RexyMontero
+- Voemvzw. (2021, May 18). Dinosaur Fight [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=axdzmmu2-IA&ab_channel=Voemvzw
+- Max Richter. (2020, June 5). On The Nature Of Daylight [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=-8F-7eMSQ4c&ab_channel=MaxRichter-Topic
 
