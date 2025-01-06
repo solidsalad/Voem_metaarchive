@@ -4,7 +4,7 @@
 - Muhammed Ordu: Digital Archive
 - Lander Van Der Stighelen: Learning Hub
 - Grim Van Daele: Gameroom
-- Eli: Main lobby
+- Eli Vermeulen: Main lobby
 - Michiel Hoerée: Museum
 
 ## Logica van de VR-toepassing
